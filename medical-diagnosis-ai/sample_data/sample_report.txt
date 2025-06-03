@@ -1,0 +1,41 @@
+PATIENT MEDICAL REPORT
+
+Patient ID: MR-2025-001
+Date: May 25, 2025
+Physician: Dr. Sarah Johnson, MD
+
+CHIEF COMPLAINT:
+Patient presents with persistent cough for 2 weeks, fever, and shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:
+45-year-old male presents with a 2-week history of productive cough with yellowish sputum, intermittent fever up to 101.5°F, and progressive shortness of breath, especially on exertion. Patient reports fatigue and decreased appetite. No recent travel history. No known COVID-19 exposure.
+
+PHYSICAL EXAMINATION:
+- Vital Signs: Temperature 100.8°F, BP 130/85, HR 95 bpm, RR 22/min, O2 Sat 94% on room air
+- General: Patient appears mildly distressed, mild respiratory distress
+- Chest: Decreased breath sounds in right lower lobe, dullness to percussion
+- Heart: Regular rate and rhythm, no murmurs
+- Extremities: No clubbing, cyanosis, or edema
+
+CLINICAL FINDINGS:
+- Productive cough with purulent sputum
+- Right lower lobe consolidation on physical examination
+- Mild hypoxemia
+- Fever pattern consistent with bacterial infection
+
+ASSESSMENT:
+Based on clinical presentation and physical examination findings, patient likely has community-acquired pneumonia affecting the right lower lobe. Differential diagnosis includes bacterial pneumonia, viral pneumonia, or atypical pneumonia.
+
+PLAN:
+1. Chest X-ray to confirm diagnosis
+2. Complete blood count and blood cultures
+3. Sputum culture and sensitivity
+4. Start empirical antibiotic therapy
+5. Supportive care with rest and hydration
+6. Follow-up in 48-72 hours
+
+RECOMMENDATIONS:
+- Monitor oxygen saturation
+- Return if symptoms worsen
+- Complete full course of antibiotics
+- Consider additional imaging if no improvement in 72 hours 

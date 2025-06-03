@@ -59,7 +59,8 @@ An advanced web-based AI system that analyzes X-ray/MRI images and medical repor
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/divyesh099/Hackathon-Repo-Round-2
+git clone https://github.com/divyesh099/PyHackathon-2nd-Round.git
+cd PyHackathon-2nd-Round
 cd medical-diagnosis-ai
 ```
 

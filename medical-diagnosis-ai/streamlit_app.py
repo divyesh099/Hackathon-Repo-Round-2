@@ -405,7 +405,7 @@ def main():
         col1, col2 = st.columns([1, 1])
         
         with col1:
-            image_type = st.selectbox("Select Image Type", ["X-ray", "MRI"])
+            image_type = st.selectbox("Select Image Type", ["MRI","X-ray"])
             uploaded_file = st.file_uploader(
                 f"Upload {image_type} Image", 
                 type=['png', 'jpg', 'jpeg', 'dicom'],

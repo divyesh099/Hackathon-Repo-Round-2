@@ -130,13 +130,13 @@ python run.py
 
 # UI overview
 ## Home
-![UI Screenshot](./ui/assets/main-page.png)
+![UI Screenshot](medical-diagnosis-ai/ui/assets/main-page.png)
 ## Report Analysis
-![UI Screenshot](./ui/assets/report-analysis.png)
+![UI Screenshot](medical-diagnosis-ai/ui/assets/report-analysis.png)
 ## Image Analysis
-![UI Screenshot](./ui/assets/image-analysis.png)
+![UI Screenshot](medical-diagnosis-ai/ui/assets/image-analysis.png)
 ## Report Image Analysis
-![UI Screenshot](./ui/assets/report-image-analysis.png)
+![UI Screenshot](medical-diagnosis-ai/ui/assets/report-image-analysis.png)
 #
 
 **Built with ❤️ by divyesh savaliya, for the PyHackathon competition.**

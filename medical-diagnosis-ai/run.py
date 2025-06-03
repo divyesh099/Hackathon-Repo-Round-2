@@ -31,13 +31,14 @@ def run_frontend():
     """Run the Streamlit frontend"""
     print("🎨 Starting Streamlit frontend...")
     # Wait a bit for backend to start
-    time.sleep(3)
+    time.sleep(10)
     try:
         subprocess.run([
             sys.executable, "-m", "streamlit", 
             "run", "streamlit_app.py", 
             "--server.port", "8501",
-            "--server.address", "0.0.0.0"
+            "--server.address", "0.0.0.0",
+            "--browser.serverAddress", "localhost"
         ], check=True)
     except KeyboardInterrupt:
         print("\n🛑 Frontend server stopped")

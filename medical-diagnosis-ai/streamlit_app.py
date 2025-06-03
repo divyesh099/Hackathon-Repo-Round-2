@@ -396,7 +396,7 @@ def main():
     st.sidebar.markdown("## 🧭 Navigation")
     analysis_mode = st.sidebar.selectbox(
         "Select Analysis Mode",
-        ["Image Analysis", "Report Analysis", "Combined Analysis", "About System"]
+        ["Report Analysis", "Image Analysis", "Combined Analysis", "About System"]
     )
     
     if analysis_mode == "Image Analysis":
@@ -830,7 +830,8 @@ def main():
     st.markdown("---")
     st.markdown(
         "<div style='text-align: center; color: #7F8C8D;'>"
-        "🏥 AI Medical Diagnosis System | Enhanced with spaCy & Adaptive Recommendations | "
+        "🏥 AI Medical Diagnosis System | Enhanced with spaCy & Adaptive Recommendations"
+        "<br>"
         "⚠️ For Educational Use Only"
         "<br>"
         "Made by <a href='https://github.com/divyesh099'>Divyesh Savaliya</a>"
